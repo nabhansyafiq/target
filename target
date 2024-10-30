@@ -1,0 +1,8 @@
+// target.js
+const targets = [
+  
+    { number: '6288227606701', codes: 1000 },
+    { number: '628895154319', codes: 1000 }
+];
+
+module.exports = targets;
